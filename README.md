@@ -2,7 +2,7 @@
 
 </br>
 
-## How to reach me :mailbox:  
+## How to reach me :coffee:  
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:codeacwars@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/acwars/)
