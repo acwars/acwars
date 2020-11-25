@@ -2,9 +2,8 @@
 
 </br>
 
-## :mailbox: How to reach me : 
+## How to reach me :mailbox:  
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:codeacwars@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/acwars/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/acwars/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/acwars/)
